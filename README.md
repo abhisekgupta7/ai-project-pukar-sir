@@ -1,4 +1,4 @@
-# 🏭 AutoScan AI: Automated Vision to Excel with Multimodal Voice Feedback
+# 🏭 AutoScan AI: Automated Vision to Excel 
 > **Artificial Intelligence Lab 7 Capstone Project**  
 > *Purwanchal Campus, Institute of Engineering (IOE)*
 
